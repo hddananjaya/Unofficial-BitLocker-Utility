@@ -2,10 +2,21 @@
 
 BitLocker Re-Locker
 -------------------
-A Simple Application to re-lock encrypted drives without restarting the PC. Have used facilities in manage-bde.exe. This is currently in beta version and will be developed as completed GUI for manage-bde.
+A Simple Application to re-lock encrypted drives without restarting the PC. Have used facilities in manage-bde.exe. This is currently in beta version and will be developed as completed GUI for manage-bde.exe
 
-Downloads
+Binary Release
 ----------
+Windows(10) - BitLocker Re-Locker(x64).zip
+
+
+Required
+---------
+.NET Framework 4.x
+
+
+
+
+
 
 
 
