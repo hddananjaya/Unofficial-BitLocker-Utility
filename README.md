@@ -6,8 +6,7 @@ A Simple Application to re-lock encrypted drives without restarting the PC. Have
 
 Binary Release
 ----------
-Windows(10) - BitLocker Re-Locker(x64).zip
-
+Windows(10) - [BitLocker Re-Locker(x64).zip](https://github.com/I2NhbmloZWxweW91/BitLocker-Re-Locker/releases) (Run as Administrator)
 
 Required
 ---------
