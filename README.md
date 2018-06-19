@@ -2,7 +2,7 @@
 
 BitLocker Re-Locker
 -------------------
-A Simple Application to operations in Windows BitLocker. Have used facilities in manage-bde.exe. This is currently in beta version and will be developed as completed GUI for manage-bde.exe
+A Simple Application to do operations in Windows BitLocker. Have used facilities in manage-bde.exe. This is currently in beta version and will be developed as completed GUI for manage-bde.exe
 
 Binary Release
 ----------
