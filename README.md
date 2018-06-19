@@ -1,8 +1,8 @@
-<div style="text-align:center" align="center"><img src ="https://github.com/I2NhbmloZWxweW91/BitLocker-Re-Locker/blob/master/img/Relocker%20SS.PNG" /></div>
+<div style="text-align:center" align="center"><img src ="https://github.com/I2NhbmloZWxweW91/Unofficial-BitLocker-Utility/blob/master/img/utility%200.0.1%20SS.PNG" /></div>
 
 BitLocker Re-Locker
 -------------------
-A Simple Application to re-lock encrypted drives without restarting the PC. Have used facilities in manage-bde.exe. This is currently in beta version and will be developed as completed GUI for manage-bde.exe
+A Simple Application to operations in Windows BitLocker. Have used facilities in manage-bde.exe. This is currently in beta version and will be developed as completed GUI for manage-bde.exe
 
 Binary Release
 ----------
